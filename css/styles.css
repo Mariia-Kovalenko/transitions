@@ -364,3 +364,9 @@ a{
     background-color: white;
     transform: rotate(-45deg);
 }
+
+
+
+.svg:hover{
+    fill: #403F3E;
+}
